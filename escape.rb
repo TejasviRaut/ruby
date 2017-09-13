@@ -2,5 +2,6 @@
 
 puts 'escape using "\\"';
 puts 'That\'s right';
-puts "\" Stay Hungry Stay Foolish \" - Steve Jobs";
+puts "\" Stay Hungry \n\sStay Foolish \" - Steve Jobs";
+
 
